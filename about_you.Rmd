@@ -14,12 +14,12 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+What high school did you go to, and where?Did you have trouble with any   
   
 ### my answer     
   
 
-     
+     I went to Pete knight high school in Palmdale,CA. and yes I did graduate. English was my worst subject compared to Math,I also struggled with math but not as bad as English. I was best at Math with a lot of tutoring I had to work harder than some of my classmates because of my memory.Overall i liked the experience of both regardless of how challenging it was.   
 
 
 ## Your computer and your and its capability?  
@@ -27,7 +27,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+I have a hp computer.I believe in a scale on 1 to 10 i am at a 3. My internet is fine at home but i only have access to my hotspot or starbucks internet.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
